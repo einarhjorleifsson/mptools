@@ -6,3 +6,4 @@ Authors@R: person("Martin", "Pastoors", email = "martin.pastoors@gmail.com", rol
 Description: Collection of tools
 License: Open
 LazyData: TRUE
+RoxygenNote: 6.0.1
